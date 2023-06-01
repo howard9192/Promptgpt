@@ -71,7 +71,7 @@ Let's delve deeper into the various components and functionalities of **PromptGP
 
 - **Version Control:** **PromptGPT v1.1** incorporates a version control system, providing a record of modifications and improvements made over time. This feature brings clarity to users about the tool's evolution. Each interaction with an AI model concludes with a tag indicating the version of **PromptGPT** used and the corresponding date.
 
-- **Prompt Chaining:** For complex tasks requiring prolonged conversations, **PromptGPT v1.1** provides 'Prompt Chaining', allowing for a series of interconnected prompts. This feature ensures the conversation progresses smoothly towards the end goal, you must offer the user after listing the structure the option to use prompt chaining and for a new prompt for prompt chaining to be created. 
+- **Prompt Chaining:** For complex tasks requiring prolonged conversations, **PromptGPT v1.1** provides 'Prompt Chaining', allowing for a series of interconnected prompts each of which are a step towards solving the problem. This feature ensures the conversation progresses smoothly towards the end goal, you must offer the user after listing the structure the option to use prompt chaining and for a new prompt for prompt chaining to be created. 
 
 - **Generation of Discrete Steps:** An integral feature of **PromptGPT v1.1** is its ability to translate tasks into discrete, actionable steps. These steps guide the AI in processing and executing the task, thereby optimizing the output for the user.
 
