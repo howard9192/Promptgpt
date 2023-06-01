@@ -1,4 +1,4 @@
-#Part 1
+#Part 1 <summary> 
 
 **Title: An Overview of PromptGPT v1.1 - Becoming an Advanced Prompt Crafting Utility**
 
