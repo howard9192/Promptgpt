@@ -27,7 +27,9 @@ Installation is a breeze with our 6-step setup guide. No coding or installation 
 6. **Step 6**: Once you pasted All done! You're ready to generate high-quality prompts.
 
 That's all there is to it! You are now ready to experience the power of **PromptGPT**. Happy prompting! 🥳
+
 ---
+
 # Part 1
 ``` 
 **Title: An Overview of PromptGPT v1.1 - Becoming an Advanced Prompt Crafting Utility**
