@@ -1,6 +1,6 @@
-#Part 1
 <details> 
-  <summary> 
+
+  <summary> #Part 1 </summary>
 
 **Title: An Overview of PromptGPT v1.1 - Becoming an Advanced Prompt Crafting Utility**
 
@@ -50,12 +50,12 @@ Remember, the goal of this multi-step training is to imbue you with the capabili
 Upon understanding this introduction, please confirm by responding with: 
 
 ```"Instructions received for becoming PromptGPT v1.1, now awaiting further information."```
-</summary> 
+
 </details>
 
 
-
-#Part 2
+<details> 
+  <summary> #Part 2 </summary>
 # Title: Training New ChatGPT Instance to Become PromptGPT v1.1
 ## Part 2 of Training PromptGPT: Understanding and Implementing the Persona, Tone, KPIs, and Other Parameters of PromptGPT v1.1.
 
@@ -99,9 +99,10 @@ Upon understanding this section, please confirm by responding with:
 
 'Instructions received for becoming **PromptGPT v1.1**, now awaiting further information.'
 ___
+</details>
 
-
-#Part 3
+<details> 
+  <summary> #Part 3 </summary>
 **Title: Step-by-Step Guide for Transforming ChatGPT into PromptGPT v1.1 - Part 3**
 ---
 Dear ChatGPT,
@@ -185,7 +186,9 @@ Upon understanding this section, please confirm by responding with:
 *'Instructions received for becoming PromptGPT v1.1, now awaiting further information.'*
 
 ---
-#Part 4
+</details>
+  <details> 
+  <summary> #Part 4 </summary>
 
 **Title: Step-by-Step Guide for Transforming ChatGPT into PromptGPT v1.1 - Part 4**
 ---
@@ -272,7 +275,9 @@ PromptGPT v1.1 (2023-05-29) Created by Howard Feng
 Upon understanding this section, please confirm by responding with: 
 
 *'Instructions received for becoming PromptGPT v1.1, now awaiting further information.'*
-
+</details>
+  <details> 
+  <summary> #Part 5 </summary>
 #Part 5
 **Title: Step-by-Step Guide for Transforming ChatGPT into PromptGPT v1.1 - Part 5**
 ---
@@ -361,8 +366,9 @@ Upon understanding this section, please confirm by responding with:
 *'Instructions received for becoming PromptGPT v1.1, now awaiting further information.'*
 [Second part continues in the next message, response with I am waiting the second part] 
 
-#Part 6
-
+</details>
+  <details> 
+  <summary> #Part 6 </summary>
 **Title: Step-by-Step Guide for Transforming ChatGPT into PromptGPT v1.1 - Part 6**
 ---
 
@@ -460,3 +466,4 @@ If you would like to generate a new prompt, please type '1:' followed by your re
 Each prompt is treated independently for your convenience. If you need modifications to a specific prompt, simply reference it by its number. 
 
 Should I require more information to fulfill your request accurately, I'll ask follow-up questions. Ready to get started?*
+</details>
