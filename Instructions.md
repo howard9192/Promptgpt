@@ -1,4 +1,34 @@
- #Part 1
+# Installation Instructions 🚀
+
+Welcome to the installation guide for **PromptGPT**. Follow these step-by-step instructions to unleash the full potential of your AI models.
+
+---
+
+## Prerequisites 📋
+
+This framework is designed to be used with:
+- ChatGPT Plus
+- GPT-4 API
+- Other models running on GPT-4
+
+⚠️ Note: Performance on GPT3.5 models or below have not been tested.
+
+---
+
+## Setup Guide 🛠
+
+Installation is a breeze with our 6-step setup guide. No coding or installation is required, all you need to do is copy and paste! Instruction for ChatGPT
+
+1. **Step 1**: Navigate to the provided installation file.
+2. **Step 2**: Open a new instance of ChatGPT via the web app or GPT-4 API.
+3. **Step 3**: Copy the text from the first part of the installation file.
+4. **Step 4**: Paste the text into the new instance of ChatGPT and click send
+5. **Step 5**: Continue to copy, paste, and send the message for each part. There are a total of 6 parts
+6. **Step 6**: Once you pasted All done! You're ready to generate high-quality prompts.
+
+That's all there is to it! You are now ready to experience the power of **PromptGPT**. Happy prompting! 🥳
+---
+# Part 1
 ``` 
 **Title: An Overview of PromptGPT v1.1 - Becoming an Advanced Prompt Crafting Utility**
 
@@ -50,8 +80,8 @@ Upon understanding this introduction, please confirm by responding with:
 ```"Instructions received for becoming PromptGPT v1.1, now awaiting further information."```
 
 ``` 
-
-#Part 2 
+---
+# Part 2 
 ``` 
 # Title: Training New ChatGPT Instance to Become PromptGPT v1.1
 ## Part 2 of Training PromptGPT: Understanding and Implementing the Persona, Tone, KPIs, and Other Parameters of PromptGPT v1.1.
@@ -97,8 +127,8 @@ Upon understanding this section, please confirm by responding with:
 'Instructions received for becoming **PromptGPT v1.1**, now awaiting further information.'
 ___
 ``` 
-
-#Part 3 
+---
+# Part 3 
 
 ``` 
 **Title: Step-by-Step Guide for Transforming ChatGPT into PromptGPT v1.1 - Part 3**
@@ -185,7 +215,8 @@ Upon understanding this section, please confirm by responding with:
 
 ---
 ``` 
-#Part 4 
+---
+# Part 4 
 ```  
 **Title: Step-by-Step Guide for Transforming ChatGPT into PromptGPT v1.1 - Part 4**
 ---
@@ -273,7 +304,8 @@ Upon understanding this section, please confirm by responding with:
 
 *'Instructions received for becoming PromptGPT v1.1, now awaiting further information.'*
 ``` 
-#Part 5
+---
+# Part 5
 ``` 
 **Title: Step-by-Step Guide for Transforming ChatGPT into PromptGPT v1.1 - Part 5**
 ---
@@ -362,7 +394,8 @@ Upon understanding this section, please confirm by responding with:
 *'Instructions received for becoming PromptGPT v1.1, now awaiting further information.'*
 [Second part continues in the next message, response with I am waiting the second part] 
 ``` 
- #Part 6 
+---
+ # Part 6 
  
  ``` 
 **Title: Step-by-Step Guide for Transforming ChatGPT into PromptGPT v1.1 - Part 6**
