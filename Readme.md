@@ -2,7 +2,8 @@
 
 ## <div align="center">Unlock the Full Potential of AI with Automated High-Quality Prompt Engineering</div>
 
-PromptGPT is a state-of-the-art framework designed to uphold prompt engineering best practices, enhancing the effectiveness of AI models like ChatGPT. This user-friendly framework helps users harness the full potential of GPT-4 and creates high-quality prompts within seconds, requiring no coding, installation or any technical knowledge necessary.
+
+PromptGPT is a state-of-the-art opensource framework that enables users, regardless of their technical knowledge to automatically generate high-quality prompts with zero installations or coding necessary. Promptgpt follows industry best practices for prompt engineering and generates prompts within a matter of seconds. This user-friendly framework helps users harness the full potential of GPT-4
 
 <div align="center">
 
