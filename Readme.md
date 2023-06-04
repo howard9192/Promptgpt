@@ -8,6 +8,8 @@ PromptGPT is a state-of-the-art framework designed to uphold prompt engineering 
 
 ---
 
+  
+  
 </div>
 
 ### 📊 Importance of Prompt Engineering 
@@ -18,6 +20,8 @@ According to a study published in [Arxiv](https://arxiv.org/pdf/2201.11903.pdf),
 
 ---
 
+  
+ 
 </div>
 
 ### 💡 Problem it Solves 
@@ -28,6 +32,8 @@ Creating accurate and relevant prompts for AI models can be challenging and time
 
 ---
 
+  
+  
 </div>
 
 ### 🚀 Benefits
@@ -36,6 +42,8 @@ Creating accurate and relevant prompts for AI models can be challenging and time
 - **Improves Accuracy**: Create prompts that leverage the strengths of AI models.
 - **Enhances Consistency**: Ensure the instructions given to AI models are consistent.
 ---
+  
+  
 ### Demo: A software engineer preparing for a Google interview
 
 
@@ -43,6 +51,8 @@ https://github.com/howard9192/Prompgpt/assets/26611065/46791699-c9e3-4865-b5d4-d
 
 
 ---
+  
+  
 ### Demo: A software engineer preparing for a Google interview; using Prompt Chaining 
 https://github.com/howard9192/Prompgpt/assets/26611065/700758e6-f5cf-4c9a-bf7a-7f8d109dbff5 
 
@@ -54,6 +64,8 @@ https://github.com/howard9192/Prompgpt/assets/26611065/700758e6-f5cf-4c9a-bf7a-7
 
 </div>
 
+  
+  
 ### 💻 Installation and Setup
 
 The setup process for PromptGPT is simple, consisting of a series of six steps. Each step requires only copying and pasting specific information into a new instance of ChatGPT. Detailed instructions can be found in the installation file. Note: This framework is compatible with ChatGPT Plus, the GPT-4 API, or other models running on GPT-4. Assessment of the performance on other models has not been assessed. 
@@ -64,6 +76,8 @@ The setup process for PromptGPT is simple, consisting of a series of six steps. 
 
 ---
 
+  
+  
 </div>
 
 ### 🥊 Comparison with Other Platforms
@@ -97,6 +111,9 @@ Scoring guide:
 
 
 This comparison showcases the exceptional features and capabilities of PromptGPT. Unleash the full potential of AI with PromptGPT!
+
+  ---
+  
 <div align="center">
   
 # 🚀 Project Roadmap
