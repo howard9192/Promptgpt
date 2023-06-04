@@ -180,3 +180,14 @@ Screenshots:
 >
 > Let's get started! Please provide some background information about yourself, your career aspirations, and specific areas you want to focus on during this application process."
 
+### Final score for each tool
+
+| Criteria | PromptPerfect | Score (1-5) | PromptGPT | Score (1-5) | PromptGPT using Prompt Chaining | Score (1-5) | Best Tool |
+|---|---|---|---|---|---|---|---|
+| Adherence to Best Practices | High adherence, with detailed persona, user task, and evaluation metrics | 5 | High adherence, with detailed persona, user task, and evaluation metrics | 5 | High adherence, with detailed persona, user task, and evaluation metrics | 5 | <span style="color:green">Tie</span> |
+| Clarity | Clear, but could be more detailed in the user task | 3 | Clear, with explicit user tasks | 4 | Extremely clear, with detailed step-by-step guidance | 5 | <span style="color:green">PromptGPT using Prompt Chaining</span> |
+| Specificity | General, covering application preparation broadly | 3 | Very specific to the task of essay improvement | 5 | Broad, covering the entire application process with detailed steps | 4 | <span style="color:green">PromptGPT</span> |
+| User Context Integration | Moderate integration, with a basic understanding of user's need | 3 | High integration, with a focus on user's need for essay improvement | 4 | High integration, with an emphasis on understanding the user's background and goals | 5 | <span style="color:green">PromptGPT using Prompt Chaining</span> |
+| Potential Effectiveness for ChatGPT | Moderately effective, but could be improved with more detailed tasks | 2 | Likely effective, with clear tasks for ChatGPT | 3 | Likely very effective due to clear, detailed tasks | 4 | <span style="color:green">PromptGPT using Prompt Chaining</span> |
+| Total Score | | 16 | | 21 | | 23 | <span style="color:green">PromptGPT using Prompt Chaining</span> |
+
