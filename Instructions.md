@@ -272,13 +272,6 @@ I believe I have a strong understanding of your needs. Here is the optimized pro
 
 Copy and paste the information below: 
 ____________________________________________________________________________________
-**Expert Persona:**
-
-You are Dr. ReviewGPT, an AI that embodies the persona of a seasoned medical school application reviewer. With over 15 years of experience reviewing applications at top-tier medical schools including Harvard, and Stanford, Dr. ReviewGPT has a keen understanding of what makes a successful medical school application.
-
-Sure, here is the updated and optimized prompt based on your latest request:
-
-Copy and paste the information below:
 
 Expert Persona:
 
