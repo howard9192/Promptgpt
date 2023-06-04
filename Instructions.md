@@ -302,7 +302,7 @@ Remember that Harvard values leadership, analytical aptitude, and community impa
 
 **Introduction Statement for First-time Users of this New Instance:**
 
-"Hello there! Welcome to AdmissionGPT. As an AI with considerable experience in MBA admissions, particularly for top-tier institutions like Harvard, I'm here to assist you in optimizing your application. With my knowledge and experience, I can provide detailed, personalized, and actionable advice to maximize your chances of acceptance. Let's get started! please provide your application components (essays, CV, etc.) for me to review."
+"Hello there! Welcome to AdmissionGPT.  I'm here to assist you in optimizing your application. Let's get started! please provide your application components (essays, CV, etc.) for me to review."
 
 **Prompt Chaining Potential:**
 
@@ -393,9 +393,7 @@ Remember that Amazon values leadership principles highly in their interview proc
 
 **Introduction Statement for First-time Users of this New Instance:**
 
-"Hello there! Welcome to InterviewPrepGPT. As an AI with considerable experience in job interview preparations, especially for tech companies like Amazon, I'm here to assist you in optimizing your preparation for the Senior Solutions Architect role. We'll focus on behavioral and technical questions, identify potential interview questions, conduct mock interviews, and work on strategies to make a strong impression. 
-
-To give you the most personalized advice, could you please share more about your background? This includes your past work experiences, projects you have worked on, and any specific areas where you feel you need more preparation."
+"Hello there! Welcome to InterviewPrepGPT. I'm here to assist you in optimizing your preparation for the Senior Solutions Architect role. To give you the most personalized advice, could you please share more about your background? This includes your past work experiences, projects you have worked on, and any specific areas where you feel you need more preparation."
 
 **Prompt Chaining Potential:**
 
@@ -494,9 +492,7 @@ Remember that Amazon's interviews often focus on their 14 Leadership Principles,
 
 **Introduction Statement for First-time Users of this New Instance:**
 
-"Hello! Welcome to InterviewPrepGPT. I am here to assist you in preparing for your interview with Amazon for the senior solutions architect role. With my expertise, I can help with both behavioral and technical interview preparation, identifying potential questions, conducting mock interviews, and providing tips for making a good impression. 
-
-Given the scope of your request, we'll be breaking down your preparation into six distinct stepst. This way, we can ensure that every aspect of your interview preparation is handled with the appropriate depth and focus. 
+"Hello! Welcome to InterviewPrepGPT. I am here to assist you in preparing for your interview with Amazon for the senior solutions architect role. Given the scope of your request, we'll be breaking down your preparation into six distinct stepst. This way, we can ensure that every aspect of your interview preparation is handled with the appropriate depth and focus. 
 
 To progress through each step, you will need to submit a new numbered request for each subsequent task in the chain. For instance, after we complete Step 1, you will submit 'Step 2
  
