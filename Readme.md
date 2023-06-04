@@ -97,28 +97,40 @@ Scoring guide:
 
 
 This comparison showcases the exceptional features and capabilities of PromptGPT. Unleash the full potential of AI with PromptGPT!
-
+<div align="center">
+  
 # 🚀 Project Roadmap
 
 ## 🎈 Q2 2023 - Project Launch 🎉
+  
+</div>
 
-- 🔥 Official release of the PromptGPT project.
-- 👥 Initial user testing and valuable feedback collection.
-- 📚 Development of comprehensive installation documentation.
+- Official release of the PromptGPT project.
+- Initial user testing and valuable feedback collection.
+- Development of comprehensive installation documentation.
 
+<div align="center">
+  
 ## 📢 Q3 2023 - User Engagement and Expansion 🌍
+  
+</div>
 
-- 🏗️ Develop a thriving community around PromptGPT, encouraging users to share experiences and offer feedback.
-- 🔄 Incorporate user feedback into the project, refining and optimizing the PromptGPT process.
-- 🧪 Begin testing PromptGPT with other powerful large language models.
-- 🧠 Introduction of "Chain of Thought" reasoning capabilities, taking PromptGPT's intelligence to the next level.
-- 🔌 Exploration of integration possibilities with other AI tools and platforms, making PromptGPT even more versatile.
-- 
+- Develop a thriving community around PromptGPT, encouraging users to share experiences and offer feedback.
+- Incorporate user feedback into the project, refining and optimizing the PromptGPT process.
+- Begin testing PromptGPT with other powerful large language models.
+- Introduction of "Chain of Thought" reasoning capabilities, taking PromptGPT's intelligence to the next level.
+- Exploration of integration possibilities with other AI tools and platforms, making PromptGPT even more versatile.
+
+ <div align="center">
+  
 ## 💡 Q4 2023 - Advanced Features and Integration 🎁
-- 🌲 Implement "Tree of Thought" for handling complex decision-making processes and sophisticated reasoning.
-- 🛠️ Add support for common plugins, further expanding the functionality and versatility of PromptGPT.
-- 🚀 Focus on performance optimization, ensuring PromptGPT remains fast and efficient even as the complexity of tasks increases.
-- 🌍 Introduce localization for different languages, making PromptGPT accessible to users worldwide.
+  
+  </div>
+  
+- Implement "Tree of Thought" for handling complex decision-making processes and sophisticated reasoning.
+- Add support for common plugins, further expanding the functionality and versatility of PromptGPT.
+- Focus on performance optimization, ensuring PromptGPT remains fast and efficient even as the complexity of tasks increases.
+- Introduce localization for different languages, making PromptGPT accessible to users worldwide.
 
 _*Please note that this is a tentative roadmap. Timings and specifics may change based on the project's progress and user feedback. Always keep your community informed about any major changes to the roadmap.*_
 
