@@ -63,18 +63,17 @@ For our comparison, the following request was given to both platforms: " I want 
 
 Here's a comparison table highlighting their differences:
 
-Absolutely, I can revise the scores to a scale of 1 to 5. Here's the updated table:
 
-| Evaluation Criteria | PromptPerfect | Score (Out of 5) | PromptGPT | Score (Out of 5) |
-|---------------------|---------------|-----------------|-----------|-----------------|
-| Adherence to Best Practices | High adherence, with user-centric approach, active user participation, and clear guidance | 4 | High adherence, with an added layer of AI persona description, task breakdown, and evaluation methods | 5 |
-| Clarity | Clear and explicit, defining the user's task and providing necessary guidance | 4 | Exceptionally clear, with a detailed task breakdown, evaluation methods, and performance measures | 5 |
-| Specificity | High specificity, with detailed user tasks and encouragement for rich inputs | 4 | High specificity, with detailed AI persona, user tasks, and evaluation methods | 5 |
-| User Context Integration | High integration, with a focus on Harvard Medical School's values and mission | 5 | High integration, with user-centric KPIs, such as user satisfaction and essay quality improvement | 5 |
-| Potential Effectiveness for ChatGPT | Likely to guide ChatGPT effectively to provide targeted feedback | 4 | Likely to guide ChatGPT in a detailed and nuanced manner due to the specified persona and process | 5 |
-| **Total Score** | | **21** | | **25** |
 
-These scores offer a comparative view of both tools. While PromptPerfect scores highly on all criteria, PromptGPT outperforms slightly in adherence to best practices, clarity, specificity, and potential effectiveness for ChatGPT. The context integration is on par for both prompts. The choice between the two should still be influenced by user preferences and the specifics of the intended interaction.
+Scoring guide:
+- **1**: Does not meet criteria
+- **2**: Barely meets criteria
+- **3**: Meets criteria to a moderate extent
+- **4**: Meets criteria well
+- **5**: Meets criteria excellently
+
+#Now let's compare all three tools: PromptPerfect, PromptGPT, and PromptGPT using Prompt Chaining.
+
 
 
 This comparison showcases the exceptional features and capabilities of PromptGPT. Unleash the full potential of AI with PromptGPT!
