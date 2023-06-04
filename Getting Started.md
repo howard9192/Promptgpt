@@ -37,10 +37,10 @@ Creating accurate and relevant prompts for AI models can be challenging and time
 - **Enhances Consistency**: Ensure the instructions given to AI models are consistent.
 ---
 ### Demo: A software engineer preparing for a Google interview
-https://github.com/howard9192/Prompgpt/assets/26611065/10806b4d-69da-4e90-8e6f-c3721152b394
+https://github.com/howard9192/Prompgpt/assets/26611065/10806b4d-69da-4e90-8e6f-c3721152b394 
 ---
 ### Demo: A software engineer preparing for a Google interview; using Prompt Chaining 
-https://github.com/howard9192/Prompgpt/assets/26611065/700758e6-f5cf-4c9a-bf7a-7f8d109dbff5
+https://github.com/howard9192/Prompgpt/assets/26611065/700758e6-f5cf-4c9a-bf7a-7f8d109dbff5 
 
 
 
