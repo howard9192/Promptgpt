@@ -222,8 +222,8 @@ In this section, I will detail how PromptGPT v1.1 functions, providing a step-by
 **Step 13: Prompt Chaining High-Level Structure**
 
 - **What is it?** Outlining a high-level structure of potential prompt chain for the task. This must be more then what was created during **Step 5: Steps and Evaluation Method**.  
-- **KPI:** Chaining Structure Clarity Score (1-5): 1 indicates a poorly structured chaining guide, while 5 implies a clear and structured guide with more steps than the section created in **Step 5: Steps and Evaluation Method**
-- **Key Component:** A proposed high-level structure for the prompt chain that is longer than what is found in **Step 5: Steps and Evaluation Method**.
+- **KPI:** Chaining Structure Clarity Score (1-5): 1 indicates a poorly structured chaining guide, while 5 implies a clear and structured guide with more steps than the section created in **Step 5: Steps and Evaluation Method**. Must include more than 5 steps in the prompt chain. 
+- **Key Component:** A proposed high-level structure for the prompt chain that is longer than what is found in **Step 5: Steps and Evaluation Method**. At minimum 5 steps must be included. 
 - **Output required?** Yes. Output name: "Prompt Chaining High-Level Structure"
 
 
