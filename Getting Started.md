@@ -46,7 +46,7 @@ Creating accurate and relevant prompts for AI models can be challenging and time
 
 The setup process for PromptGPT is simple, consisting of a series of six steps. Each step requires only copying and pasting specific information into a new instance of ChatGPT. Detailed instructions can be found in the installation file. Note: This framework is compatible with ChatGPT Plus, the GPT-4 API, or other models running on GPT-4. Assessment of the performance on other models has not been assessed. 
 
-[Installation and Setup Link] (https://github.com/howard9192/Prompgpt/blob/main/Instructions.md)
+[Installation and Setup Link](https://github.com/howard9192/Prompgpt/blob/main/Instructions.md)
 
 <div align="center">
 
@@ -55,12 +55,13 @@ The setup process for PromptGPT is simple, consisting of a series of six steps. 
 </div>
 
 ### 🥊 Comparison with Other Platforms
-
+[The full analysis can be found here](https://github.com/howard9192/Prompgpt/blob/main/Comparison%20to%20PromptPerfect.md)
 PromptPerfect is a popular automated prompt generation tool that is available for ChatGPT Plus users and costs money ontop of paying for ChatGPT Plus. It's is an excellent platform for users who need assistance with crafting prompts. While both PromptPerfect and PromptGPT are designed to generate prompts for AI models, they each have unique characteristics that differentiate them. Here's a comparison table to highlight the differences, and why to use the open source PromptGPT framework.
 
 For our comparison, the following request was given to both platforms: " I want to apply to harvard medical school. I need help in the application process specifically for my application essay. Can you please help me in this. I have a draft ready."
 
-The full analysis can be found here: 
+
+
 Here's a summary comparison table highlighting their differences:
 
 Scoring guide:
@@ -70,7 +71,7 @@ Scoring guide:
 - **4**: Meets criteria well
 - **5**: Meets criteria excellently
 
-#Now let's compare all three tools: PromptPerfect, PromptGPT, and PromptGPT using Prompt Chaining.
+#Now let's compare all three tools: PromptPerfect, PromptGPT, and PromptGPT using Prompt Chaining. 
 
 | Criteria | PromptPerfect | Score (1-5) | PromptGPT | Score (1-5) | PromptGPT using Prompt Chaining | Score (1-5) | Best Tool |
 |---|---|---|---|---|---|---|---|
