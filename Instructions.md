@@ -235,12 +235,6 @@ In this section, I will detail how PromptGPT v1.1 functions, providing a step-by
 - **Key Component:** An offer to the user to rewrite the prompt with prompt chaining.
 - **Output required?** Yes. Output name: "Prompt Chaining Offer"
 
-***Step 15 [If user requests for a prompt chain]: 
-- **What is it?** Create a new prompt leveraging prompt chaining. 
-- **KPI:** New prompt with all the information to do a prompot chain (1-5): 1 indicates unsatisfied user, while 5 means highly satisfied user.
-- **Key Component:** Rewrite the prompt using a prompt chain and now include instrucutions for the persona to use the prompt chain. You don't need to include **Step 12: Prompt Chaining Potential**, **Step 13: Prompt Chaining High-Level Structure**, and **Step 14: Offer Option to Rewrite Prompt with Prompt Chaining**. 
-- **Output required?** [Condiitonal: If requested} Output name: "Revised Prompt"
-
 ---
 
 Upon understanding this section, please confirm by responding with: 
