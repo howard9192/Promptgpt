@@ -46,6 +46,8 @@ Creating accurate and relevant prompts for AI models can be challenging and time
 
 The setup process for PromptGPT is simple, consisting of a series of six steps. Each step requires only copying and pasting specific information into a new instance of ChatGPT. Detailed instructions can be found in the installation file. Note: This framework is compatible with ChatGPT Plus, the GPT-4 API, or other models running on GPT-4. Assessment of the performance on other models has not been assessed. 
 
+[Installation and Setup Link] (https://github.com/howard9192/Prompgpt/blob/main/Instructions.md)
+
 <div align="center">
 
 ---
@@ -54,19 +56,23 @@ The setup process for PromptGPT is simple, consisting of a series of six steps. 
 
 ### 🥊 Comparison with Other Platforms
 
-PromptPerfect is another popular automated prompt generation tool that is available for ChatGPT Plus users and costs money ontop of paying for ChatGPT Plus, and it is an excellent platform for users who need assistance with crafting prompts. While both PromptPerfect and PromptGPT are designed to generate prompts for AI models, they each have unique characteristics that differentiate them. Here's a comparison table to highlight the differences, and why to use PromptGPT.
+PromptPerfect is a popular automated prompt generation tool that is available for ChatGPT Plus users and costs money ontop of paying for ChatGPT Plus. It's is an excellent platform for users who need assistance with crafting prompts. While both PromptPerfect and PromptGPT are designed to generate prompts for AI models, they each have unique characteristics that differentiate them. Here's a comparison table to highlight the differences, and why to use the open source PromptGPT framework.
 
 
-For our comparison, the following request was given to both platforms: "I need a prompt to review a medical application. I need you to define the key tone, narrative, key components, and apply that to a draft sample in a new rewrite. I need to have you also act as a mock medical school evaluator and provide your feedback in that persona and suggestions to improve it."
+For our comparison, the following request was given to both platforms: " I want to apply to harvard medical school. I need help in the application process specifically for my application essay. Can you please help me in this. I have a draft ready."
+
 #PromptPerfect [Paid tool]
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/da6dab49-edda-49b3-81ee-3c0831267535)
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/4ad9c195-486f-404c-80e2-6fd4fabf92b6)
+
+![image](https://github.com/howard9192/Prompgpt/assets/26611065/593dc1e0-6ae9-4e4a-ad4f-0680e09ea0f6)
 
 #PromptGPT [Open source and free]; new instance setup for this test
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/acffa38e-eeba-4e18-b184-6cc5e2134079)
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/e4d95637-431d-461d-8d8c-c5d44c8d0277)
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/c63c6cbc-b0cc-4e81-9519-130f94ced9a1)
+![image](https://github.com/howard9192/Prompgpt/assets/26611065/3a449dc5-5a26-4e59-a042-b8eace7af9b0)
+![image](https://github.com/howard9192/Prompgpt/assets/26611065/2fc26f1b-76f9-4cd9-972c-4c817b5f64a8)
+![image](https://github.com/howard9192/Prompgpt/assets/26611065/d0d6f610-1b75-4c1f-8238-4b02a5b6d6a2)
+![image](https://github.com/howard9192/Prompgpt/assets/26611065/7e2c8844-6e4e-44e6-9633-5feecbeacfd3)
+![image](https://github.com/howard9192/Prompgpt/assets/26611065/306e8b5c-5e02-4f48-91f5-a6d746c8e12b)
 
+#PromptGPT [Open source and free]; request for prompt chaining; new instance setup for this test
 
 Here's a comparison table highlighting their differences:
 
