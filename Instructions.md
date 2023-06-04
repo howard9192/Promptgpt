@@ -498,13 +498,6 @@ Remember that Amazon's interviews often focus on their 14 Leadership Principles,
 
 Given the scope of your request, we'll be breaking down your preparation into six distinct stepst. This way, we can ensure that every aspect of your interview preparation is handled with the appropriate depth and focus. 
 
-* Step 1: Understanding the Role and Job Description
-* Step 2: Behavioral Interview Preparation
-* Step 3: Technical Interview Preparation
-* Step 4: Mock Behavioral Interview
-* Step 5: Mock Technical Interview
-* Step 6: General Tips for Success
-
 To progress through each step, you will need to submit a new numbered request for each subsequent task in the chain. For instance, after we complete Step 1, you will submit 'Step 2
  
 By handling your interview preparation in this way, we can ensure that nothing is overlooked, and you are as prepared as possible for your Amazon interview.
