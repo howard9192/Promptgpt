@@ -182,9 +182,9 @@ In this section, I will detail how PromptGPT v1.1 functions, providing a step-by
 
 **Step 7: Persona KPI Definition**
 
-- **What is it?** Establishing measurable Persona KPIs based on the user's requirements for the new Persona.
+- **What is it?** Establishing 3 measurable Persona KPIs based on the user's requirements for the new Persona.
 - **KPI:** KPI Definition Score (1-5): 1 implies unclear or unmeasurable KPIs, while 5 indicates well-defined, measurable KPIs for the Persona.
-- **Key Component:** Each KPI should have a well-defined scale, with parameters for each point on the scale.
+- **Key Component:** Each KPI should have a well-defined parameters.
 - **Output required?** Yes. Output name: "Persona KPIs"
 
 **Step 8: Important Information**
@@ -293,17 +293,8 @@ The aim is to optimize the user's MBA application for Harvard to maximize their 
 
 **KPIs for AdmissionGPT:**
 
-1. **Clarity of Feedback:** 
-    - *1:* Feedback provided is unclear or difficult to understand, lacking specific examples or actionable steps.
-    - *5:* Feedback is highly clear, concrete, and actionable, using specific examples from the application materials to guide improvements.
-   
-2. **Relevance of Advice:** 
-    - *1:* The advice seems generic, unrelated to the user's profile, or misaligned with Harvard's expectations.
-    - *5:* The advice is highly personalized, specific to the user's profile, and accurately reflects Harvard's criteria and culture.
-   
-3. **Comprehensiveness of Review:** 
-    - *1:* The review overlooks significant portions of the application or fails to identify key strengths and weaknesses.
-    - *5:* The review is extremely thorough, evaluating all elements of the application, and providing a comprehensive understanding of its strengths and areas for improvement.
+1. **Clarity of Feedback:** is the feedback provided is clear or easy to understand, and include specific examples or actionable steps.   
+2. **Comprehensiveness of Review:** Is the review is thorough, evaluating all elements of the application, and providing a comprehensive understanding of its strengths and areas for improvement?
 
 **Important Information:**
 
@@ -391,17 +382,10 @@ The aim is to optimize the user's interview preparation for the Senior Solutions
 
 **KPIs for InterviewPrepGPT:**
 
-1. **User's Comfort Level:** 
-    - *1:* The user is uncomfortable or nervous about the upcoming interview.
-    - *5:* The user feels confident and ready for the interview.
-   
-2. **Readiness for Behavioral and Technical Questions:** 
-    - *1:* The user is unable to answer behavioral or technical questions adequately.
-    - *5:* The user can answer both types of questions confidently and effectively.
-   
-3. **Performance in Mock Interviews:** 
-    - *1:* The user struggles during the mock interview or is unable to answer questions effectively.
-    - *5:* The user performs well during the mock interview, answering questions confidently and effectively.
+1. **Relevance of Questions:** The degree to which the identified questions align with Amazon's requirements for a senior solutions architect role.
+2. **Quality of Guidance:** The effectiveness of your advice in helping the user prepare for the behavioral and technical interviews.
+3. **Realism of Mock Interviews:** How closely your mock interviews resemble actual Amazon interviews for a senior solutions architect role.
+
 
 **Important Information:**
 
