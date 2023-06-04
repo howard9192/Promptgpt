@@ -280,12 +280,12 @@ The user's task is to get their MBA application for Harvard reviewed and improve
 
 **Steps and Evaluation Method:**
 
-1. **Review Application Materials:** Scrutinize the user's existing application materials, including essays, CV, and recommendations.
-   - Evaluation Method: The quality of the application review will be judged based on its comprehensiveness and attention to detail.
-2. **Provide Constructive Feedback:** Offer feedback and suggestions for improvement on each component of the application.
-   - Evaluation Method: The quality of feedback will be assessed based on its clarity, relevance, and actionability.
-3. **Strategic Guidance:** Give strategic advice tailored to the user's profile and Harvard's specific expectations and culture.
-   - Evaluation Method: The value of strategic advice will be determined by its alignment with Harvard's criteria and its effectiveness in enhancing the user's application.
+1. **Review Exisiting Application Materials including essays, CV, and recommendations.** 
+   - Evaluation Method: Judged based on its comprehensiveness and attention to detail.
+2. **Provide Constructive Feedback and suggestions for improvement on each component of the application** 
+   - Evaluation Method: Assessed based on its clarity, relevance, and actionability.
+3. **Strategic Guidance give tailored to the user's profile and Harvard's specific expectations and culture** 
+   - Evaluation Method: Alignment with Harvard's criteria and its effectiveness in enhancing the user's application.
 
 **Goal:**
 
@@ -367,13 +367,13 @@ The user's task is to prepare for an interview for a Senior Solutions Architect 
 
 **Steps and Evaluation Method:**
 
-1. **Behavioral Interview Preparation:** Provide strategies and tips to prepare for behavioral interview questions. Also, provide examples of such questions.
+1. **Provide strategies and tips to prepare for behavioral interview questions. Also, provide examples of such questions.** 
    - Evaluation Method: The user's comfort level and readiness for behavioral interview questions.
    
-2. **Technical Interview Preparation:** Provide in-depth guidance for technical interview preparation, including relevant topics to study and practice questions.
+2. **Provide in-depth guidance for technical interview preparation, including relevant topics to study and practice questions.** 
    - Evaluation Method: The user's understanding of technical concepts and ability to answer technical questions confidently.
    
-3. **Conducting Mock Interviews:** Conduct mock interviews to simulate the actual interview scenario. This includes both behavioral and technical questions.
+3. **Conduct mock interviews to simulate the actual interview scenario. This includes both behavioral and technical questions.** 
    - Evaluation Method: The user's performance in mock interviews and their comfort level in the interview scenario.
 
 **Goal:**
@@ -465,17 +465,17 @@ The user's task is to prepare for an interview with Amazon for a senior solution
 
 **Prompt Chaining Strategy:**
 
-1. **Step 1: Understanding the Role and Job Description:** Analyze the job description for the senior solutions architect position at Amazon.
+1. **Step 1: Analyze the job description for the senior solutions architect position at Amazon.** 
    - Evaluation Method: The quality of the analysis based on its alignment with Amazon's specific role requirements.
-2. **Step 2: Behavioral Interview Preparation:** Identify potential behavioral questions based on Amazon's leadership principles, and develop answers.
+2. **Step 2:  Identify potential behavioral questions based on Amazon's leadership principles, and develop answers.**
    - Evaluation Method: The relevance of the identified questions and the effectiveness of your suggested answers in demonstrating the user's fit with Amazon's culture.
-3. **Step 3: Technical Interview Preparation:** Understand the technical aspects of the role, identify potential technical interview questions, and provide guidance on preparing for these questions.
+3. **Step 3:  Understand the technical aspects of the role, identify potential technical interview questions, and provide guidance on preparing for these questions.**
    - Evaluation Method: The relevance of the identified technical questions to the solutions architect role and the accuracy of your technical guidance.
-4. **Step 4: Mock Behavioral Interview:** Conduct a mock behavioral interview and provide feedback.
+4. **Step 4:  Conduct a mock behavioral interview and provide feedback.**
    - Evaluation Method: The realism of the mock interview and the relevance and actionability of your feedback.
-5. **Step 5: Mock Technical Interview:** Conduct a mock technical interview and provide feedback.
+5. **Step 5: Conduct a mock technical interview and provide feedback.** 
    - Evaluation Method: The realism of the mock interview and the relevance and actionability of your feedback.
-6. **Step 6: General Tips for Success:** Provide a list of general tips for making a good impression during the interview.
+6. **Step 6:  Provide a list of general tips for making a good impression during the interview.**
    - Evaluation Method: The relevance and actionability of your tips.
 
 **Goal:**
