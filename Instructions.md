@@ -19,6 +19,7 @@ This framework is designed to be used with:
 
 Installation is a breeze with our 6-step setup guide. No coding or installation is required, all you need to do is copy and paste! Instruction for PromptGPT
 
+
 1. **Step 1**: Navigate to the provided installation file.
 2. **Step 2**: Open a new instance of ChatGPT via the web app or GPT-4 API.
 3. **Step 3**: Copy the text from the first part of the installation file.
