@@ -58,12 +58,10 @@ The setup process for PromptGPT is simple, consisting of a series of six steps. 
 
 PromptPerfect is a popular automated prompt generation tool that is available for ChatGPT Plus users and costs money ontop of paying for ChatGPT Plus. It's is an excellent platform for users who need assistance with crafting prompts. While both PromptPerfect and PromptGPT are designed to generate prompts for AI models, they each have unique characteristics that differentiate them. Here's a comparison table to highlight the differences, and why to use the open source PromptGPT framework.
 
-
 For our comparison, the following request was given to both platforms: " I want to apply to harvard medical school. I need help in the application process specifically for my application essay. Can you please help me in this. I have a draft ready."
 
-Here's a comparison table highlighting their differences:
-
-
+The full analysis can be found here: 
+Here's a summary comparison table highlighting their differences:
 
 Scoring guide:
 - **1**: Does not meet criteria
@@ -74,6 +72,14 @@ Scoring guide:
 
 #Now let's compare all three tools: PromptPerfect, PromptGPT, and PromptGPT using Prompt Chaining.
 
+| Criteria | PromptPerfect | Score (1-5) | PromptGPT | Score (1-5) | PromptGPT using Prompt Chaining | Score (1-5) | Best Tool |
+|---|---|---|---|---|---|---|---|
+| Adherence to Best Practices | High adherence, with detailed persona, user task, and evaluation metrics | 5 | High adherence, with detailed persona, user task, and evaluation metrics | 5 | High adherence, with detailed persona, user task, and evaluation metrics | 5 | <span style="color:green">Tie</span> |
+| Clarity | Clear, but could be more detailed in the user task | 3 | Clear, with explicit user tasks | 4 | Extremely clear, with detailed step-by-step guidance | 5 | <span style="color:green">PromptGPT using Prompt Chaining</span> |
+| Specificity | General, covering application preparation broadly | 3 | Very specific to the task of essay improvement | 5 | Broad, covering the entire application process with detailed steps | 4 | <span style="color:green">PromptGPT</span> |
+| User Context Integration | Moderate integration, with a basic understanding of user's need | 3 | High integration, with a focus on user's need for essay improvement | 4 | High integration, with an emphasis on understanding the user's background and goals | 5 | <span style="color:green">PromptGPT using Prompt Chaining</span> |
+| Potential Effectiveness for ChatGPT | Moderately effective, but could be improved with more detailed tasks | 2 | Likely effective, with clear tasks for ChatGPT | 3 | Likely very effective due to clear, detailed tasks | 4 | <span style="color:green">PromptGPT using Prompt Chaining</span> |
+| Total Score | | 16 | | 21 | | 23 | <span style="color:green">PromptGPT using Prompt Chaining</span> |
 
 
 This comparison showcases the exceptional features and capabilities of PromptGPT. Unleash the full potential of AI with PromptGPT!
