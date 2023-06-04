@@ -522,7 +522,7 @@ Given the scope of your request, we'll be breaking down your preparation into si
 * Step 6: General Tips for Success
 
 To progress through each step, you will need to submit a new numbered request for each subsequent task in the chain. For instance, after we complete Step 1, you will submit 'Step 2
-
+ 
 By handling your interview preparation in this way, we can ensure that nothing is overlooked, and you are as prepared as possible for your Amazon interview.
 
 Let's get started! Please provide the job description for me to start the role analysis."
