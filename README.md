@@ -61,26 +61,20 @@ PromptPerfect is a popular automated prompt generation tool that is available fo
 
 For our comparison, the following request was given to both platforms: " I want to apply to harvard medical school. I need help in the application process specifically for my application essay. Can you please help me in this. I have a draft ready."
 
-#PromptPerfect [Paid tool]
-
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/593dc1e0-6ae9-4e4a-ad4f-0680e09ea0f6)
-
-#PromptGPT [Open source and free]; new instance setup for this test
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/3a449dc5-5a26-4e59-a042-b8eace7af9b0)
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/2fc26f1b-76f9-4cd9-972c-4c817b5f64a8)
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/d0d6f610-1b75-4c1f-8238-4b02a5b6d6a2)
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/7e2c8844-6e4e-44e6-9633-5feecbeacfd3)
-![image](https://github.com/howard9192/Prompgpt/assets/26611065/306e8b5c-5e02-4f48-91f5-a6d746c8e12b)
-
-#PromptGPT [Open source and free]; request for prompt chaining; new instance setup for this test
-
 Here's a comparison table highlighting their differences:
 
-| Criteria | PromptPerfect | PromptGPT | Importance |
-| --- | --- | --- | --- |
-| Clarity of Instructions | Clear but general instructions | Tailored instructions to a unique persona | Clear instructions lead to more relevant responses |
-| Persona Description | No specific persona | Defined Persona (AdmissionsGPT v1.1) | A well-defined persona leads to responses that are more engaging and contextually accurate |
-| Evaluation Method | Mentioned but lacks detail and context | Thoroughly detailed with specific tasks and methods | A well-detailed evaluation method guides ChatGPT to provide a more thorough analysis and insightful recommendations |
-| Expected Outcome | Implied to be feedback on the application | Explicitly defined (Thoroughness of Review, Quality of Rewrite, Usefulness of Feedback) | Clearly defined outcome helps ChatGPT to understand the goal of the task better, leading to outputs that are more aligned with user's intent |
+Absolutely, I can revise the scores to a scale of 1 to 5. Here's the updated table:
+
+| Evaluation Criteria | PromptPerfect | Score (Out of 5) | PromptGPT | Score (Out of 5) |
+|---------------------|---------------|-----------------|-----------|-----------------|
+| Adherence to Best Practices | High adherence, with user-centric approach, active user participation, and clear guidance | 4 | High adherence, with an added layer of AI persona description, task breakdown, and evaluation methods | 5 |
+| Clarity | Clear and explicit, defining the user's task and providing necessary guidance | 4 | Exceptionally clear, with a detailed task breakdown, evaluation methods, and performance measures | 5 |
+| Specificity | High specificity, with detailed user tasks and encouragement for rich inputs | 4 | High specificity, with detailed AI persona, user tasks, and evaluation methods | 5 |
+| User Context Integration | High integration, with a focus on Harvard Medical School's values and mission | 5 | High integration, with user-centric KPIs, such as user satisfaction and essay quality improvement | 5 |
+| Potential Effectiveness for ChatGPT | Likely to guide ChatGPT effectively to provide targeted feedback | 4 | Likely to guide ChatGPT in a detailed and nuanced manner due to the specified persona and process | 5 |
+| **Total Score** | | **21** | | **25** |
+
+These scores offer a comparative view of both tools. While PromptPerfect scores highly on all criteria, PromptGPT outperforms slightly in adherence to best practices, clarity, specificity, and potential effectiveness for ChatGPT. The context integration is on par for both prompts. The choice between the two should still be influenced by user preferences and the specifics of the intended interaction.
+
 
 This comparison showcases the exceptional features and capabilities of PromptGPT. Unleash the full potential of AI with PromptGPT!
