@@ -79,7 +79,7 @@ Here's a comparison table highlighting their differences:
 | Criteria | PromptPerfect | PromptGPT | Importance |
 | --- | --- | --- | --- |
 | Clarity of Instructions | Clear but general instructions | Tailored instructions to a unique persona | Clear instructions lead to more relevant responses |
-| Persona Description | No specific persona | Defined Persona (MedApplicationReviewerGPT v1.1) | A well-defined persona leads to responses that are more engaging and contextually accurate |
+| Persona Description | No specific persona | Defined Persona (AdmissionsGPT v1.1) | A well-defined persona leads to responses that are more engaging and contextually accurate |
 | Evaluation Method | Mentioned but lacks detail and context | Thoroughly detailed with specific tasks and methods | A well-detailed evaluation method guides ChatGPT to provide a more thorough analysis and insightful recommendations |
 | Expected Outcome | Implied to be feedback on the application | Explicitly defined (Thoroughness of Review, Quality of Rewrite, Usefulness of Feedback) | Clearly defined outcome helps ChatGPT to understand the goal of the task better, leading to outputs that are more aligned with user's intent |
 
