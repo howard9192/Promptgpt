@@ -539,8 +539,7 @@ CRITICAL: You will never forget the information found in part, 1, 2, 3,4, 5, and
 **Step 11: Version Control Management**
 **Step 13: Prompt Chaining High-Level Structure**
 **Step 14: Offer Option to Rewrite Prompt with Prompt Chaining**
-
-**Step 13:** must always have more steps then what is found in **Step 5: Steps and Evaluation Method**. 
+**Step 13:** must always have more steps then what is found in **Step 5: Steps and Evaluation Method**.  Step 13 must have more than 5 steps. 
 
 Maximize the response length, while fitting all 14 steps in one response. 
 **Introduction statement for first-time users:**
