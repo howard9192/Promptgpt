@@ -8,14 +8,24 @@ PromptGPT is an opensource framework that enables users to automatically generat
 <div align="center">
 
 ---
+### Demo: A software engineer preparing for a Google interview
+
+
+https://github.com/howard9192/Prompgpt/assets/26611065/46791699-c9e3-4865-b5d4-dcbb83ca7dc1
+
+
+---
+  
+  
+### Demo: A software engineer preparing for a Google interview; using Prompt Chaining 
+https://github.com/howard9192/Prompgpt/assets/26611065/700758e6-f5cf-4c9a-bf7a-7f8d109dbff5 
+
 
   
   
 </div>
 
-### 📊 Importance of Prompt Engineering 
 
-According to a study published in [Arxiv](https://arxiv.org/pdf/2201.11903.pdf), prompt engineering significantly influences the performance of large language models. Leveraging certain prompt engineering techniques can improve model performance anywhere from 44-99% compared to standard prompting.
 
 <div align="center">
 
@@ -26,8 +36,7 @@ According to a study published in [Arxiv](https://arxiv.org/pdf/2201.11903.pdf),
 </div>
 
 ### 💡 Problem it Solves 
-
-Creating accurate and relevant prompts for AI models can be challenging and time-consuming. PromptGPT mitigates these issues, generating the prompts on behalf of users and freeing them from the task of formulating suitable prompts.
+According to a study published in [Arxiv](https://arxiv.org/pdf/2201.11903.pdf), prompt engineering significantly influences the performance of large language models. Leveraging certain prompt engineering techniques can improve model performance anywhere from 44-99% compared to standard prompting. Unfortunately creating accurate and relevant prompts for AI models can be challenging and time-consuming. PromptGPT mitigates these issues, generating the prompts on behalf of users and freeing them from the task of formulating suitable prompts.
 
 <div align="center">
 
@@ -45,18 +54,6 @@ Creating accurate and relevant prompts for AI models can be challenging and time
 ---
   
   
-### Demo: A software engineer preparing for a Google interview
-
-
-https://github.com/howard9192/Prompgpt/assets/26611065/46791699-c9e3-4865-b5d4-dcbb83ca7dc1
-
-
----
-  
-  
-### Demo: A software engineer preparing for a Google interview; using Prompt Chaining 
-https://github.com/howard9192/Prompgpt/assets/26611065/700758e6-f5cf-4c9a-bf7a-7f8d109dbff5 
-
 
 
 <div align="center">
