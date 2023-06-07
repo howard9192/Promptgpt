@@ -1,3 +1,10 @@
+### 🥊 Comparison with Other Platforms
+
+PromptPerfect is a popular automated prompt generation tool that is available for ChatGPT Plus users and costs money ontop of paying for ChatGPT Plus. It's is an excellent platform for users who need assistance with crafting prompts. While both PromptPerfect and PromptGPT are designed to generate prompts for AI models, they each have unique characteristics that differentiate them. Here's a comparison table to highlight the differences, and why to use the open source PromptGPT framework.
+
+For our comparison, the following request was given to both platforms: " I want to apply to harvard medical school. I need help in the application process specifically for my application essay. Can you please help me in this. I have a draft ready."
+
+
 # Comparison Metrics: 
 
 1. **Adherence to Best Practices:** A score of 1 in this category would mean that the prompt barely follows any best practices in prompt engineering, which may lead to ineffective interaction. A score of 5, on the other hand, indicates that the prompt follows best practices effectively, including clarity, encouraging user engagement, and providing actionable instructions.
