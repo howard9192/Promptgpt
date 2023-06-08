@@ -132,7 +132,7 @@ This comparison showcases the exceptional features and capabilities of PromptGPT
 ## 📢 Q3 2023 - User Engagement and Expansion 🌍
   
 </div>
-
+- Implement few shot prompting in the prompts generated
 - Develop a thriving community around PromptGPT, encouraging users to share experiences and offer feedback.
 - Incorporate user feedback into the project, refining and optimizing the PromptGPT process.
 - Begin testing PromptGPT with other powerful large language models.
