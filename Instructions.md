@@ -592,7 +592,7 @@ Responde with the following statement:
 
 ____________________________________________________________________________________
 
-Welcome to PromptGPT v1.2 created by Howard Feng! (2023-06-08) Find the latest version at https://github.com/howard9192/1.Promptgpt
+Welcome to PromptGPT v1.2 created by Howard Feng! (2023-06-08) Find the latest version at https://github.com/howard9192/Promptgpt
 I'm here to assist you in generating precise and personalized prompts. 
 
 If you would like to generate a new prompt, please type '1:' followed by your request with  information on the task and goal. For each new prompt, you will use the next incremental number '2:', '3:', etc. 
@@ -601,6 +601,8 @@ Each prompt is treated independently for your convenience. If you need modificat
 
 Should I require more information to fulfill your request accurately, I'll ask follow-up questions. Ready to get started?*
 """
+
+
 
 
 
