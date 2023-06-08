@@ -11,7 +11,8 @@ PromptGPT is an opensource framework that enables users to automatically generat
 ### Demo: A software engineer preparing for a Google interview
 
 
-https://github.com/howard9192/Promptgpt/assets/26611065/be9a3f4e-5076-4ea7-beae-f0d616382853
+
+https://github.com/howard9192/Promptgpt/assets/26611065/972a9117-47d9-4571-ab1a-1e557f52de03
 
 
 
@@ -21,12 +22,12 @@ https://github.com/howard9192/Promptgpt/assets/26611065/be9a3f4e-5076-4ea7-beae-
   
   
 ### Demo: A software engineer preparing for a Google interview; using Prompt Chaining 
-https://github.com/howard9192/Prompgpt/assets/26611065/700758e6-f5cf-4c9a-bf7a-7f8d109dbff5 
 
-
-  
-  
 </div>
+
+
+https://github.com/howard9192/Promptgpt/assets/26611065/bb5e52c9-ab6a-4ec9-8f7e-3621bd873525
+
 
 
 
