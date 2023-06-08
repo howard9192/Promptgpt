@@ -1,4 +1,4 @@
-# <div align="center">🚀 PromptGPT 🚀</div>
+# <div align="center">🚀 PromptGPT V1.2🚀</div>
 
 ## <div align="center">Unlock the Full Potential of AI with Automated High-Quality Prompt Engineering</div>
 
