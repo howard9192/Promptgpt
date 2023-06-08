@@ -37,7 +37,11 @@ https://chat.openai.com/share/b387cbfe-5cc0-42ba-bff8-aff5de7fcace
 
 That's all there is to it! You are now ready to experience the power of **PromptGPT**. Happy prompting! 🥳
 
-https://github.com/howard9192/Prompgpt/assets/26611065/74af9924-55bd-4c63-acdc-3b73133f8676
+
+https://github.com/howard9192/Promptgpt/assets/26611065/c217fa3e-3fd3-43ba-9c4f-df97ab7f0aee
+
+
+
 ---
 
 # Part 1
