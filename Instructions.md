@@ -23,14 +23,19 @@ Installation is a breeze with our 6-step setup guide. No coding or installation 
 
 https://github.com/howard9192/Prompgpt/assets/26611065/74af9924-55bd-4c63-acdc-3b73133f8676
 
+# Instructions for PromptGPT Setup for ChatGPT Plus users
+1. Click link below
+2. Click the continue the conversation 
+https://chat.openai.com/share/b387cbfe-5cc0-42ba-bff8-aff5de7fcace 
 
-# Instruction for PromptGPT
-1. **Step 1**: Navigate to the provided installation file.
-2. **Step 2**: Open a new instance of ChatGPT via the web app or GPT-4 API.
-3. **Step 3**: Copy the text from the first part of the installation file.
-4. **Step 4**: Paste the text into the new instance of ChatGPT and click send
-5. **Step 5**: Continue to copy, paste, and send the message for each part. There are a total of 6 parts
-6. **Step 6**: Once you pasted All done! You're ready to generate high-quality prompts.
+
+# Instruction for PromptGPT setup for GPT-4 API users
+1. Navigate to the provided installation file.
+2. Open a new instance of  GPT-4 API.
+3. Copy the text from the first part of the installation file.
+4. Paste the text into the new instance of ChatGPT and click send
+5. Continue to copy, paste, and send the message for each part. There are a total of 6 parts
+6. Once you pasted All done! You're ready to generate high-quality prompts.
 
 That's all there is to it! You are now ready to experience the power of **PromptGPT**. Happy prompting! 🥳
 
