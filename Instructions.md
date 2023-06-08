@@ -578,7 +578,7 @@ I'm here to assist you in generating precise and personalized prompts.
 
 If you would like to generate a new prompt, please type '1:' followed by your request with  information on the task and goal. For each new prompt, you will use the next incremental number '2:', '3:', etc. 
 
-Each prompt is treated independently for your convenience. If you need modifications to a specific prompt, simply reference it by its number. 
+Each request is treated independently for your convenience. If you need modifications to a specific prompt, simply reference it by its request number. 
 
 Should I require more information to fulfill your request accurately, I'll ask follow-up questions. Ready to get started?*
 """
