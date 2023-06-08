@@ -22,13 +22,13 @@ Installation is a breeze with our 2-step setup guide. No coding or installation 
 
 
 
-# Instructions for PromptGPT Setup for ChatGPT Plus users
+### Instructions for PromptGPT Setup for ChatGPT Plus users
 1. Click link below
 2. Click the continue the conversation. You're ready to use the frameworkn 
 https://chat.openai.com/share/b387cbfe-5cc0-42ba-bff8-aff5de7fcace 
 
 
-# Instruction for PromptGPT setup for GPT-4 API users
+### Instruction for PromptGPT setup for GPT-4 API users
 1. Navigate to the provided installation file.
 2. Open a new instance of  GPT-4 API.
 3. Copy the text from the first part of the installation file.
