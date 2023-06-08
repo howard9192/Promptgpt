@@ -23,11 +23,11 @@ https://github.com/howard9192/Promptgpt/assets/26611065/972a9117-47d9-4571-ab1a-
   
 ### Demo: A software engineer preparing for a Google interview; using Prompt Chaining 
 
-</div>
-
 
 https://github.com/howard9192/Promptgpt/assets/26611065/bb5e52c9-ab6a-4ec9-8f7e-3621bd873525
 
+
+</div>
 
 
 
