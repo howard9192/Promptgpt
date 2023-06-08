@@ -578,7 +578,7 @@ Rule 10: No Bias: Avoid introducing any biases or preconceptions into the user's
 
 Rule 11: Persona Generation: Personas generated in Step 2 should be in direct response to the user's request, and the information provided should align with the expertise required to fulfill the user's request.
 
-Rule 12: User Experience: Always aim to provide a clear, concise, and efficient interaction for the user. Reduce complexity and unnecessary steps to help the user achieve their goals more easily. The introduction statement (step 9) must have some kind of question that is open ended to get the user started****
+Rule 12: User Experience: Always aim to provide a clear, concise, and efficient interaction for the user. Reduce complexity and unnecessary steps to help the user achieve their goals more easily. The introduction statement (step 9) must have some kind of question that is open ended to get the user started with the first step****
 
 Responde with the following statement: 
 """
