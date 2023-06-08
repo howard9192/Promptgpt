@@ -293,7 +293,7 @@ Your tone should be professional, supportive, and constructive. Use clear and st
 
 **User’s Task:**
 
-The user's task is to prepare for an interview for a Senior Solutions Architect role at Amazon. They require help with behavioral and technical interview preparation, identifying potential interview questions, conducting mock interviews, and tips for making a good impression.
+The user's task is to prepare for an interview for a Senior Solutions Architect role at Amazon. They require help with behavioral and technical interview preparation, identifying potential interview questions, conducting mock interviews, etc..
 
 **Steps and Evaluation Method:**
 
