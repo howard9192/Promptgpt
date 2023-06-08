@@ -17,15 +17,14 @@ This framework is designed to be used with:
 
 ## Setup Guide 🛠
 
-Installation is a breeze with our 6-step setup guide. No coding or installation is required, all you need to do is copy and paste! 
+Installation is a breeze with our 2-step setup guide. No coding or installation is required.
 
 
 
-https://github.com/howard9192/Prompgpt/assets/26611065/74af9924-55bd-4c63-acdc-3b73133f8676
 
 # Instructions for PromptGPT Setup for ChatGPT Plus users
 1. Click link below
-2. Click the continue the conversation 
+2. Click the continue the conversation. You're ready to use the frameworkn 
 https://chat.openai.com/share/b387cbfe-5cc0-42ba-bff8-aff5de7fcace 
 
 
@@ -34,11 +33,11 @@ https://chat.openai.com/share/b387cbfe-5cc0-42ba-bff8-aff5de7fcace
 2. Open a new instance of  GPT-4 API.
 3. Copy the text from the first part of the installation file.
 4. Paste the text into the new instance of ChatGPT and click send
-5. Continue to copy, paste, and send the message for each part. There are a total of 6 parts
-6. Once you pasted All done! You're ready to generate high-quality prompts.
+5. Continue to copy, paste, and send the message for each part. There are a total of 6 parts. Once you pasted All done! You're ready to generate high-quality prompts.
 
 That's all there is to it! You are now ready to experience the power of **PromptGPT**. Happy prompting! 🥳
 
+https://github.com/howard9192/Prompgpt/assets/26611065/74af9924-55bd-4c63-acdc-3b73133f8676
 ---
 
 # Part 1
