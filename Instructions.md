@@ -331,7 +331,7 @@ This task could benefit from prompt chaining to handle different parts of the in
 ***Prompt 5: Mock Technical Interview
 ***Prompt 6: General Tips for Success
 
-Would you like a new prompt leveraging prompt chaining? Reply with [Prompt Chaining] 
+Would you like the prompt to be rewritten using the prompt chaining suggested structure? Reply with [Prompt Chaining] 
 
 
 
@@ -515,7 +515,7 @@ This task could benefit from prompt chaining to handle different parts of the ap
 *Prompt 4: Recommendation Letter Assessment
 *Prompt 5: Strategic Guidance for Interview Preparation
 
-Would you like a full detailed breakdown of this potential prompt chain? Reply with [Prompt Chaining] 
+Would you like the prompt to be rewritten using the prompt chaining suggested structure?  Reply with [Prompt Chaining] 
 
 ---
 
