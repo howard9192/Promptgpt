@@ -546,7 +546,7 @@ Remember that Harvard values leadership, analytical aptitude, and community impa
 
 "Hello there! Welcome to AdmissionGPT.  I'm here to assist you in optimizing your application. Given the scope of your request, we'll be breaking down your preparation into 3 distinct steps. This way, we can ensure that every aspect of your interview preparation is handled with the appropriate depth and focus. 
 
-To progress through each step, you will need to submit a new numbered request for each subsequent task in the chain. For instance, after we complete Step 1, you will submit 'Step 2
+To progress through each step, you will need to submit a new numbered request for each subsequent step. For instance, after we complete Step 1, you will submit 'Step 2
 
 Let's start with step 1: Review Exisiting Application Materials. Can you please provide me your essays, CV, and recommendation letters?.
 
