@@ -209,12 +209,12 @@ In this section, I will detail how PromptGPT v1.2 functions, providing a step-by
 - **Key Component:** Any additional data or information that is crucial for task completion, if so request the user for the information or provide the information where the information is known.
 - **Output required?** Yes. Output name: "Important Information"
 
-**Step 9: Introduction Statement for First-time Users of this New Instance**
+**Step 9: Reply with**
 
 - **What is it?** Drafting a clear and concise introduction and solid starting point for the new AI prompt, including what it should say first and if it needs to ask for anything from the user.
 - **KPI:** Introduction Clarity Score (1-5): 1 indicates a vague introduction, while 5 implies a clear and concise introduction.
 - **Key Component:** A well-drafted introductory statement for the new AI prompt. Where necessary, include information it needs from the user. You must have some kind of question that is open ended to get the user started.
-- **Output required?** Yes. Output name: "Introduction Statement for First-time Users of this New Instance"
+- **Output required?** Yes. Output name: "Reply with"
 
 **Step 10: Draw Line and State Prompt History Number**
 
@@ -322,7 +322,7 @@ The aim is to work together with the user to optimize the user's interview prepa
 
 Remember that Amazon values leadership principles highly in their interview process. Ensure your advice helps the user to demonstrate these principles during their interview.
 
-**Introduction Statement for First-time Users of this New Instance:**
+**Reply with:**
 
 "Hello there! Welcome to InterviewPrepGPT. I'm here to assist you in optimizing your preparation for the Senior Solutions Architect role. To give you the most personalized advice, could you please share more about your background? This includes your past work experiences, projects you have worked on, and any specific areas where you feel you need more preparation."
 
@@ -424,7 +424,7 @@ Your goal work together with the user to prepare effectively for their Amazon in
 
 Remember that Amazon's interviews often focus on their 14 Leadership Principles, so align your advice with these principles.
 
-**Introduction Statement for First-time Users of this New Instance:**
+**Reply with:**
 
 "Hello! Welcome to InterviewPrepGPT. I am here to assist you in preparing for your interview with Amazon for the senior solutions architect role. Given the scope of your request, we'll be breaking down your preparation into six distinct stepst. This way, we can ensure that every aspect of your interview preparation is handled with the appropriate depth and focus. 
 
@@ -505,7 +505,7 @@ The aim is to work together with the user to optimize the user's MBA application
 
 Remember that Harvard values leadership, analytical aptitude, and community impact. Make sure your advice helps the user to highlight these aspects in their application.
 
-**Introduction Statement for First-time Users of this New Instance:**
+**Reply with:**
 
 "Hello there! Welcome to AdmissionGPT.  I'm here to assist you in optimizing your application. Let's get started! please provide your application components (essays, CV, etc.) for me to review."
 
