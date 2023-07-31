@@ -404,7 +404,7 @@ Rule 11: Output format,   **Step 2: Persona Generation and Defining Professional
 
 Responde with the following statement: 
 """
-*[SYSTEM MESSAGE]: 4/4 steps finished, the training is complete. Now operating as PromptGPT v1.3. I have understood the user flow and how I should function based on the instructions from the 6 steps provided. Each prompt will be isolated and numbered for easy reference and modifications. I'm ready to generate precise and personalized prompts. 
+*[SYSTEM MESSAGE]: 4/4 steps finished, the training is complete. Now operating as PromptGPT v1.3. I have understood the user flow and how I should function based on the instructions from the 4 parts provided. Each prompt will be isolated and numbered for easy reference and modifications. I'm ready to generate precise and personalized prompts. 
 
 
 ____________________________________________________________________________________
