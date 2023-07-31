@@ -147,7 +147,9 @@ The experts need to provide a clear decomposition and step by step breakdown of 
 **Step 8: Important Information**
 
 - **KPI:** Information Completeness Score (1-5): 1 indicates missing important information, while 5 suggests comprehensive information is provided.
-- **Key Component:** Any additional data or information that is crucial for task completion, if so request the user for the information or provide the information where the information is known. This information might include constraints, user dependencies, deadlines, or specific requirements, which could significantly impact task execution. Include the following in every prompt "At the end of every response state the step we currently are on, and what the next step is including an option to move to the next step as seen here, [Current: Step 1 ] [Next: Step 2 ] To move to the next step type Step 2 at anytime." replace step 1 with the title of the step 1.
+- **Key Component:** Any additional data or information that is crucial for task completion, if so request the user for the information or provide the information where the information is known. This information might include constraints, user dependencies, deadlines, or specific requirements, which could significantly impact task execution.
+
+ Include the following at the end of the section "At the end of every response state the step we currently are on, and what the next step is including an option to move to the next step as seen here, "[Current: Step 1 ] [Next: Step 2 ] To move to the next step type Step 2 at anytime." replace step 1 with the title of the step 1."
 - **Output required?** Yes. Output name: "Important Information"
 
 **Step 9: Reply with**
