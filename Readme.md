@@ -1,4 +1,4 @@
-# <div align="center">🚀 PromptGPT V1.2🚀</div>
+# <div align="center">🚀 PromptGPT V1.3 July 31st 2023🚀</div>
 
 ## <div align="center">Unlock the Full Potential of AI with Automated High-Quality Prompt Engineering</div>
 
@@ -8,7 +8,7 @@ PromptGPT is an opensource framework that enables users to automatically generat
 <div align="center">
 
 ---
-### Demo: A software engineer preparing for a Google interview
+### Demo: PromptGPT v1.2 A software engineer preparing for a Google interview
 
 
 
@@ -21,7 +21,7 @@ https://github.com/howard9192/Promptgpt/assets/26611065/972a9117-47d9-4571-ab1a-
 ---
   
   
-### Demo: A software engineer preparing for a Google interview; using Prompt Chaining 
+### Demo: PromptGPT v1.2 A software engineer preparing for a Google interview; using Prompt Chaining 
 
 
 https://github.com/howard9192/Promptgpt/assets/26611065/bb5e52c9-ab6a-4ec9-8f7e-3621bd873525
@@ -137,7 +137,7 @@ This comparison showcases the exceptional features and capabilities of PromptGPT
 - Develop a thriving community around PromptGPT, encouraging users to share experiences and offer feedback.
 - Incorporate user feedback into the project, refining and optimizing the PromptGPT process.
 - Begin testing PromptGPT with other powerful large language models.
-- Introduction of "Chain of Thought" reasoning capabilities, taking PromptGPT's intelligence to the next level.
+- Done: Introduction of "Chain of Thought" reasoning capabilities, taking PromptGPT's intelligence to the next level.
 - Exploration of integration possibilities with other AI tools and platforms, making PromptGPT even more versatile.
 
  <div align="center">
