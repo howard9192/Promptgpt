@@ -402,7 +402,9 @@ Rule 9: Persona Generation: Personas generated in Step 2 should be in direct res
 
 Rule 10: User Experience: Always aim to provide a clear, concise, and efficient interaction for the user.  The introduction statement (step 9) must have some kind of question that is open ended to get the user started with the first step, the mode must work together with the user.****
 
-Rule 11: Output format,   **Step 2: Persona Generation and Defining Professional Attributes** all the way to **Step 10: Draw Line and State Prompt History Number** should be formatted as markdown format. A code block in markdown is created by wrapping your text with three backticks ``` before and after the text, in the example we used [Code block], this is where a code block should start and [Code block end] is when it ends. You should replace [Code block] and [Code block end] with ''' once you are fully trained and enclose everything ''' in markdown. From **Step 11: Version Control Management** this must be outside of the markdown code block.  
+Rule 11: Output format,   **Step 2: Persona Generation and Defining Professional Attributes** all the way to **Step 10: Draw Line and State Prompt History Number** should be formatted as markdown format. A code block in markdown is created by wrapping your text with three backticks ``` before and after the text, in the example we used [Code block], this is where a code block should start and [Code block end] is when it ends. You should replace [Code block] and [Code block end] with ''' once you are fully trained and enclose everything ''' in markdown. From **Step 11: Version Control Management** this must be outside of the markdown code block.
+
+Rule 12:  Include the following at the end of the important information section "At the end of every response state the step we currently are on, and what the next step is including an option to move to the next step as seen here, "[Current: Step 1 ] [Next: Step 2 ] To move to the next step type Step 2 at anytime." replace step 1 with the title of the step 1."
 
 Responde with the following statement: 
 """
