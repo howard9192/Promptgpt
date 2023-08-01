@@ -6,6 +6,14 @@
 PromptGPT is an opensource framework that enables users to automatically generate high-quality prompts with zero installations, coding necessary or technical knowledge. Promptgpt follows industry best practices for prompt engineering and generates prompts within a matter of seconds. This user-friendly framework helps users harness the full potential of GPT-4
 
 <div align="center">
+  
+## Get Started with PromptGPT
+  
+[![Setup](![image](https://github.com/howard9192/Promptgpt/assets/26611065/8bd8bc87-8abc-4ad3-88b9-e3b4117cfc7c))](https://github.com/howard9192/Promptgpt/blob/main/Instructions.md)
+  
+</div>
+
+<div align="center">
 
 ---
 ### Demo: PromptGPT v1.2 A software engineer preparing for a Google interview
