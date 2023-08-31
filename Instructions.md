@@ -26,7 +26,7 @@ Installation is a breeze with our 2-step setup guide. No coding or installation 
 1. Click link below
 2. Click the continue the conversation button. You're ready to use the framework and automatically generate prompts
 
-[ChatGPT Quick Setup Link](https://bit.ly/PromptGPTQuickSetup)
+[ChatGPT Quick Setup Link](https://bit.ly/PromptGPTPublicVersion)
 
 
 ### Instruction for PromptGPT setup for GPT-4 API users
